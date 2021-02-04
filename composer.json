@@ -1,5 +1,5 @@
 {
-    "name": "guzzlehttp/guzzle",
+    "name": "xiaoyi510/guzzle",
     "type": "library",
     "description": "Guzzle is a PHP HTTP client library",
     "keywords": [
@@ -31,7 +31,7 @@
         "php": "^7.2.5",
         "ext-json": "*",
         "guzzlehttp/promises": "^1.0",
-        "guzzlehttp/psr7": "^1.6.1",
+        "xiaoyi510/psr7": "^1.6.1",
         "psr/http-client": "^1.0"
     },
     "provide": {
